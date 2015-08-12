@@ -1,0 +1,3 @@
+git+https://github.com/uw-it-aca/mdot-rest.git@prerelease#egg=mdot_rest
+git+https://github.com/uw-it-aca/mdot.git@prerelease#egg=mdot
+git+https://github.com/uw-it-aca/mdot-developers@prerelease#egg=mdotdevs
