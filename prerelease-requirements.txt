@@ -1,2 +1,2 @@
 -e git+https://github.com/uw-it-aca/mdot-rest.git@prerelease#egg=mdot_rest
--e git+https://github.com/uw-it-aca/mdot.git@feature/docker-container#egg=mdot
+-e git+https://github.com/uw-it-aca/mdot.git@prerelease#egg=mdot
